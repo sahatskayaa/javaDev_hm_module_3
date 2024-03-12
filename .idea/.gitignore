@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+*.log
+*.swp
+*.tmp
+*.exe
+*.out
+*.dll
+*.so
+/build/
+/dist/
+/node_modules/
+.idea/
+.vscode/
+.project
+.classpat
+
+
